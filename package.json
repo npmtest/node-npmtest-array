@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [array (v0.4.3)](https://github.com/MatthewMueller/array) [![npm package](https://img.shields.io/npm/v/npmtest-array.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-array) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-array.svg)](https://travis-ci.org/npmtest/node-npmtest-array)",
+    "description": "#### basic test coverage for  [array (v0.4.3)](https://github.com/MatthewMueller/array)  [![npm package](https://img.shields.io/npm/v/npmtest-array.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-array) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-array.svg)](https://travis-ci.org/npmtest/node-npmtest-array)",
     "devDependencies": {
         "array": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
